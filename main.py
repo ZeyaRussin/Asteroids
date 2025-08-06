@@ -5,6 +5,21 @@ from shot import *
 from asteroid import *
 from asteroidfield import *
 
+'''
+- Add a scoring system
+- Implement multiple lives and respawning
+- Make the ship have a triangular hit box instead of a circular one
+- Make the asteroids lumpy instead of perfectly round
+- Add an explosion effect for the asteroids
+- Make the objects wrap around the screen instead of disappearing
+- Create different weapon types
+- Add a shield power-up
+- Add a speed power-up
+- Add bombs that can be dropped
+- Add a background image
+- Add a Main Menu
+'''
+
 def main():
     pygame.init()
 
